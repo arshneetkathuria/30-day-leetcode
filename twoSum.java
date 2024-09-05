@@ -1,3 +1,4 @@
+//Solved this problem using hash map
 class Solution {
     public int[] twoSum(int[] nums, int target) {
        Map<Integer,Integer> num_map=new HashMap<>();
